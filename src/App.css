@@ -1,0 +1,9 @@
+.app {
+  padding: 16px;
+  border-radius: 32px;
+  background: var(--Off-White, #F6F6F3);
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
